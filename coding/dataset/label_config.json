@@ -1,0 +1,106 @@
+[
+  {
+    "id": 14,
+    "text": "GENDER",
+    "prefixKey": null,
+    "suffixKey": "2",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 15,
+    "text": "TITLE",
+    "prefixKey": null,
+    "suffixKey": "6",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 16,
+    "text": "NATIONALITY",
+    "prefixKey": null,
+    "suffixKey": "n",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 17,
+    "text": "AGE",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 18,
+    "text": "COUNTRY",
+    "prefixKey": null,
+    "suffixKey": "c",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 19,
+    "text": "EDUCATIONAL INSTITUTE",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 20,
+    "text": "ORGANIZATION",
+    "prefixKey": null,
+    "suffixKey": "4",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 21,
+    "text": "DEGREE",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 22,
+    "text": "BIRTH",
+    "prefixKey": null,
+    "suffixKey": "b",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 23,
+    "text": "DATE",
+    "prefixKey": null,
+    "suffixKey": "3",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 24,
+    "text": "PERSON",
+    "prefixKey": null,
+    "suffixKey": "1",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 25,
+    "text": "CONTACT",
+    "prefixKey": null,
+    "suffixKey": "0",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 26,
+    "text": "DEPT",
+    "prefixKey": null,
+    "suffixKey": "5",
+    "backgroundColor": "#209CEE",
+    "textColor": "#ffffff"
+  }
+]
